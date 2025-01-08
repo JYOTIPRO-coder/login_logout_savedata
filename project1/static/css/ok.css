@@ -1,0 +1,44 @@
+
+
+h5{
+    color:#FE9900;
+}
+h2{
+    color: rgb(200, 151, 16);
+    text-shadow: 1px 1px 2px rgb(12, 12, 12), 0 0 25px rgb(67, 21, 233), 0 0 5px darkblue;
+  }
+h4{
+    
+        color: rgb(235, 230, 228);
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}
+.sp{
+    color: rgb(226, 46, 190);
+}
+.kp{
+    background-color: blue;
+}
+.tc{
+    color: #FE9900;
+}
+btm{
+    background-color: aqua;
+}
+form{
+    
+        color: #FE9900;
+      
+   
+}
+h1 {
+    text-shadow: 2px 2px 5px red;
+  }
+h3 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+
+.message-text{
+   color: white;
+}
